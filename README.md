@@ -1,0 +1,2 @@
+# Scientific Computing Coursera (UW)
+Here I include some of the MATLAB scripts I have written in the Scientific Computing course (course one) offered by University of Washington on Coursera. This course was taken in Sep 2014.
